@@ -1,2 +1,1 @@
-# WIFI-NODEMCU
-# WIFI-NODEMCU
+# WIFI-NODEMCU Leitura de temperatura e umidade 
